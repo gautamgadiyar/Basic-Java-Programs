@@ -1,3 +1,4 @@
+//program to find whether a character is vowel?
 class Vowel
 {
 	void alphabets(char alphabet)
